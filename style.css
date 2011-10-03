@@ -1,0 +1,19 @@
+
+.pgcatmenu {
+	z-index: 10000;
+}
+.pgcatmenu a:link, .pgcatmenu a:visited, .pgcatmenu a:hover{
+	color: #de7d0d;
+}
+
+.pgcatmenu li {
+	margin-top: 5px;
+}
+
+.pgcatmenu ul {
+	list-style:none;
+}
+
+.pgcatmenu_list li{
+	list-style:none;
+}
